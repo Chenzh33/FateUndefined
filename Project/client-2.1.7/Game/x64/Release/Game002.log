@@ -1,0 +1,63 @@
+﻿生成启动时间为 2015/6/15 17:22:51。
+     1>项目“F:\game\GUI-2.1.6\GUI-2.1.7\Game002\Game002.vcxproj”在节点 2 上(Build 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_ButtonBase.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_ButtonBase.cpp, GeneratedFiles\Release\moc_ButtonBase.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_ElementBattleInfo.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_ElementBattleInfo.cpp, GeneratedFiles\Release\moc_ElementBattleInfo.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_GameMainMenu.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_GameMainMenu.cpp, GeneratedFiles\Release\moc_GameMainMenu.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_PanelBattleInfo.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_PanelBattleInfo.cpp, GeneratedFiles\Release\moc_PanelBattleInfo.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_PanelMenu.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_PanelMenu.cpp, GeneratedFiles\Release\moc_PanelMenu.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_SinglePlayerController.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_SinglePlayerController.cpp, GeneratedFiles\Release\moc_SinglePlayerController.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_tcpclient.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_tcpclient.cpp, GeneratedFiles\Release\moc_tcpclient.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_Element.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_Element.cpp, GeneratedFiles\Release\moc_Element.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_GameContent.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_GameContent.cpp, GeneratedFiles\Release\moc_GameContent.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_gamewindow.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_gamewindow.cpp, GeneratedFiles\Release\moc_gamewindow.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_MapUnit.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_MapUnit.cpp, GeneratedFiles\Release\moc_MapUnit.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_PanelHeadUp.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_PanelHeadUp.cpp, GeneratedFiles\Release\moc_PanelHeadUp.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_PanelOperate.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_PanelOperate.cpp, GeneratedFiles\Release\moc_PanelOperate.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_PlayerViewController.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_PlayerViewController.cpp, GeneratedFiles\Release\moc_PlayerViewController.cpp.
+     1>ClCompile:
+         F:\visuals\VC\bin\x86_amd64\CL.exe /c /I.\GeneratedFiles /I. /IF:\Qt1\5.4\msvc2013_64_opengl\include /I.\GeneratedFiles\Release /IF:\Qt1\5.4\msvc2013_64_opengl\include\QtCore /IF:\Qt1\5.4\msvc2013_64_opengl\include\QtGui /IF:\Qt1\5.4\msvc2013_64_opengl\include\QtWidgets /IF:\Qt1\5.4\msvc2013_64_opengl\include\QtNetwork /IF:\Qt1\5.4\msvc2013_64_opengl\include\QtMultimedia /IF:\Qt1\5.4\msvc2013_64_opengl\include\QtMultimediaWidgets /nologo /W1 /WX- /O2 /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_NO_DEBUG /D NDEBUG /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /D QT_NETWORK_LIB /D QT_MULTIMEDIA_LIB /D QT_MULTIMEDIAWIDGETS_LIB /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /Gd /TP /errorReport:prompt PanelMenu.cpp tcpclient.cpp
+         PanelMenu.cpp
+         tcpclient.cpp
+         正在生成代码...
+       Link:
+         F:\visuals\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"F:\game\GUI-2.1.6\GUI-2.1.7\Game002\x64\Release\\Game002.exe" /NOLOGO /LIBPATH:F:\Qt1\5.4\msvc2013_64_opengl\lib qtmain.lib Qt5Core.lib Qt5Gui.lib Qt5Widgets.lib Qt5Network.lib Qt5Multimedia.lib Qt5MultimediaWidgets.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"F:\game\GUI-2.1.6\GUI-2.1.7\Game002\x64\Release\Game002.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\game\GUI-2.1.6\GUI-2.1.7\Game002\x64\Release\Game002.lib" /MACHINE:X64 x64\Release\fateundefined.res
+         x64\Release\ButtonBase.obj
+         x64\Release\Character_Element.obj
+         x64\Release\ElementBattleInfo.obj
+         x64\Release\GameMainMenu.obj
+         x64\Release\moc_ButtonBase.obj
+         x64\Release\moc_ElementBattleInfo.obj
+         x64\Release\moc_GameMainMenu.obj
+         x64\Release\moc_PanelBattleInfo.obj
+         x64\Release\moc_PanelMenu.obj
+         x64\Release\moc_SinglePlayerController.obj
+         x64\Release\moc_tcpclient.obj
+         x64\Release\PanelBattleInfo.obj
+         x64\Release\SinglePlayerController.obj
+         x64\Release\tcpclient.obj
+         x64\Release\Element.obj
+         x64\Release\ElementPool.obj
+         x64\Release\PlayerViewController.obj
+         x64\Release\gamewindow.obj
+         x64\Release\qrc_gamewindow.obj
+         x64\Release\moc_Element.obj
+         x64\Release\moc_GameContent.obj
+         x64\Release\moc_gamewindow.obj
+         x64\Release\moc_MapUnit.obj
+         x64\Release\moc_PanelHeadUp.obj
+         x64\Release\moc_PanelOperate.obj
+         x64\Release\moc_PlayerViewController.obj
+         x64\Release\main.obj
+         x64\Release\MapInfo.obj
+         x64\Release\MapUnit.obj
+         x64\Release\PanelHeadUp.obj
+         x64\Release\PanelMenu.obj
+         x64\Release\PanelOperate.obj
+         x64\Release\GameContent.obj
+         x64\Release\Set_Character.obj
+         Game002.vcxproj -> F:\game\GUI-2.1.6\GUI-2.1.7\Game002\x64\Release\Game002.exe
+     1>已完成生成项目“F:\game\GUI-2.1.6\GUI-2.1.7\Game002\Game002.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.02

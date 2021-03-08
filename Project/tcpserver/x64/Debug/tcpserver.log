@@ -1,0 +1,28 @@
+﻿生成启动时间为 2015/6/27 21:57:06。
+     1>项目“F:\game\tcpserver\tcpserver.vcxproj”在节点 2 上(Build 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_server.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_server.cpp, GeneratedFiles\Release\moc_server.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_tcpclientsocket.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_tcpclientsocket.cpp, GeneratedFiles\Release\moc_tcpclientsocket.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_tcpserver.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_tcpserver.cpp, GeneratedFiles\Release\moc_tcpserver.cpp.
+     1>ClCompile:
+         F:\visuals\VC\bin\x86_amd64\CL.exe /c /I.\GeneratedFiles /I. /IF:\Qt1\5.4\msvc2013_64_opengl\include /I.\GeneratedFiles\Debug /IF:\Qt1\5.4\msvc2013_64_opengl\include\QtCore /IF:\Qt1\5.4\msvc2013_64_opengl\include\QtGui /IF:\Qt1\5.4\msvc2013_64_opengl\include\QtNetwork /IF:\Qt1\5.4\msvc2013_64_opengl\include\QtWidgets /Zi /nologo /W1 /WX- /Od /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_NETWORK_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt server.cpp
+         server.cpp
+       Link:
+         F:\visuals\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"F:\game\tcpserver\x64\Debug\\tcpserver.exe" /NOLOGO /LIBPATH:F:\Qt1\5.4\msvc2013_64_opengl\lib qtmaind.lib Qt5Cored.lib Qt5Guid.lib Qt5Networkd.lib Qt5Widgetsd.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\game\tcpserver\x64\Debug\tcpserver.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\game\tcpserver\x64\Debug\tcpserver.lib" /MACHINE:X64 x64\Debug\Character_Element.obj
+         x64\Debug\chessboard.obj
+         x64\Debug\Element.obj
+         x64\Debug\ElementPool.obj
+         x64\Debug\moc_server.obj
+         x64\Debug\moc_tcpclientsocket.obj
+         x64\Debug\moc_tcpserver.obj
+         x64\Debug\qrc_tcpserver.obj
+         x64\Debug\main.obj
+         x64\Debug\server.obj
+         x64\Debug\Set_Character.obj
+         x64\Debug\tcpclientsocket.obj
+         x64\Debug\tcpserver.obj
+         tcpserver.vcxproj -> F:\game\tcpserver\x64\Debug\tcpserver.exe
+     1>已完成生成项目“F:\game\tcpserver\tcpserver.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.61
